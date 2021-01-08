@@ -1,2 +1,2 @@
 # calculatorapp
-Java code for building basic Calculator app
+Java code for building basic Calculator Android app.
